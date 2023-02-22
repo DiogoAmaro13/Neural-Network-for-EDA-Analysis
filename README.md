@@ -1,6 +1,6 @@
 # Neural Network for Electrodermal Activity Analysis
 
-This repository contains a neural network model for electrodermal activity (EDA) analysis that classifies skin arousal as "positive", "neutral", or "negative". EDA is a measure of sympathetic nervous system activity, and is commonly used in psychophysiological research to assess emotional arousal and stress. This neural network is designed to take EDA data as input and predict a categorical label, providing more nuanced information about emotional responses than a binary classification. The network was trained on a publicly available EDA dataset, and its performance may depend on the relevance of the categories to the research or clinical question at hand.
+This repository contains a [neural network model for electrodermal activity (EDA) analysis](https://github.com/DiogoAmaro13/Neural-Network-for-EDA-Analysis/blob/main/EDA_NN.ipynb) that classifies skin arousal as "positive", "neutral", or "negative". EDA is a measure of sympathetic nervous system activity, and is commonly used in psychophysiological research to assess emotional arousal and stress. This neural network is designed to take EDA data as input and predict a categorical label, providing more nuanced information about emotional responses than a binary classification. The network was trained on a publicly available EDA dataset, and its performance may depend on the relevance of the categories to the research or clinical question at hand.
 
 
 # Dataset
