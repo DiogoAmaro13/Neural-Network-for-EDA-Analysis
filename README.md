@@ -4,7 +4,7 @@ This repository contains a neural network model for electrodermal activity (EDA)
 
 
 # Dataset
-The neural network was trained on a publicly available EDA dataset: https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions, which consists of recordings from participants during different tasks, such as watching videos, listening to music, and speaking in public. The dataset includes both raw EDA data and preprocessed features, such as skin conductance level and skin conductance response. The dataset was split into training, validation, and testing sets for model development and evaluation.
+The neural network was trained on a publicly available [EDA dataset](https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions) which consists of recordings from participants during different tasks, such as watching videos, listening to music, and speaking in public. The dataset includes both raw EDA data and preprocessed features, such as skin conductance level and skin conductance response. The dataset was split into training, validation, and testing sets for model development and evaluation.
 
 
 # Model Architecture
