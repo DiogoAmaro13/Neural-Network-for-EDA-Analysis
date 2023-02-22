@@ -1,1 +1,6 @@
-# Neural-Network-for-EDA-Analysis
+# Neural Network for Electrodermal Activity Analysis
+
+This repository contains a neural network model for electrodermal activity (EDA) analysis that classifies skin arousal as "positive", "neutral", or "negative". EDA is a measure of sympathetic nervous system activity, and is commonly used in psychophysiological research to assess emotional arousal and stress. This neural network is designed to take EDA data as input and predict a categorical label, providing more nuanced information about emotional responses than a binary classification. The network was trained on a publicly available EDA dataset, and its performance may depend on the relevance of the categories to the research or clinical question at hand.
+
+# Dataset
+The neural network was trained on a publicly available EDA dataset: https://www.kaggle.com/datasets/birdy654/eeg-brainwave-dataset-feeling-emotions, which consists of recordings from participants during different tasks, such as watching videos, listening to music, and speaking in public. The dataset includes both raw EDA data and preprocessed features, such as skin conductance level and skin conductance response. The dataset was split into training, validation, and testing sets for model development and evaluation.
