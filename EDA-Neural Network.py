@@ -14,3 +14,13 @@ import numpy as np
 
 # 0.2 Check if the dependencies are installed
 !pip list
+
+
+
+# 1. Load and Study Data 
+
+"""find path file"""
+cwd = os.getcwd()
+file_path = os.path.join(cwd, 'emotions.csv')
+file_path
+"""."""
