@@ -19,7 +19,6 @@ import numpy as np
 
 
 # 1. Load and Study Data 
-
 # 1.1 Load the data
 
   # 1.1.1 Find path of the dataset 
@@ -41,8 +40,8 @@ df = pd.read_csv('C:\\Users\\jmsi\\emotions.csv')
   df.shape()
   #✔ Statistical values
   df.describe()
-  #✔ Are tha values in our dataset balanced?
-  df['label'].value_counts()  
+  #✔ Are the values in our dataset balanced?
+  df['label'].value_counts()  #The 'label' element must be replaced with the name of the last column of the dataset that, in our case, is called 'label'.
   #✔ Are there missing values?
   for col in df.columns:
     if df[col].isnull().sum()>0:
