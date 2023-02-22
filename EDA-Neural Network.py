@@ -31,6 +31,23 @@ file_path
 df = pd.read_csv('C:\\Users\\jmsi\\emotions.csv')
 
 # 1.2 Study the data
+""" To study the data, it is recommend to use methods that allow us to find general info about our dataset, such as:"""
+
+  #✔ Was the dataset loaded correctly into our environment?"""
+  df
+  #✔ General view on the dataframe
+  df.head()
+  #✔ Number of rows & columns
+  df.shape()
+  #✔ Statistical values
+  df.describe()
+  #✔ Are tha values in our dataset balanced?
+  df['label'].value_counts()  
+  #✔ Are there missing values?
+  for col in df.columns:
+    if df[col].isnull().sum()>0:
+        print(col)
+
 
 
   
