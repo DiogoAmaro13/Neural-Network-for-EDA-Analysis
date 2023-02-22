@@ -1,4 +1,5 @@
 # 0. Import and Install Dependencies
+
 %matplotlib inline
 import os
 import pandas as pd
@@ -19,8 +20,131 @@ import numpy as np
 
 # 1. Load and Study Data 
 
-"""find path file"""
+# 1.1 Load the data
+
+  # 1.1.1 Find path of the dataset 
 cwd = os.getcwd()
 file_path = os.path.join(cwd, 'emotions.csv')
 file_path
-"""."""
+
+  # 1.1.2 Load the file as a dataframe
+df = pd.read_csv('C:\\Users\\jmsi\\emotions.csv')
+
+# 1.2 Study the data
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
