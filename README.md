@@ -24,4 +24,4 @@ The provided code includes functions for loading and preprocessing the EDA data,
 
 
 # License
-This repository is licensed under the MIT License. See the [LICENSE](https://github.com/DiogoAmaro13/Neural-Network-for-EDA-Analysis/blob/main/LICENSE, target="blank") file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/DiogoAmaro13/Neural-Network-for-EDA-Analysis/blob/main/LICENSE) file for details.
