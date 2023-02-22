@@ -12,9 +12,7 @@ from sklearn.preprocessing import StandardScaler
 import numpy as np
 
 ### Install tensorflow
-
 !pip install tensorflow
 
 ### Check if the dependencies are installed
-
 !pip list
