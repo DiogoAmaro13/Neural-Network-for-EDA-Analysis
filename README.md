@@ -21,3 +21,7 @@ To use the neural network model for EDA analysis, follow these steps:
   5. Use the trained model to predict categorical labels for new EDA data.
 
 The provided code includes functions for loading and preprocessing the EDA data, as well as training and evaluating the neural network model. The code can be customized to adjust the model architecture, hyperparameters, and input/output formats.
+
+
+# License
+This repository is licensed under the MIT License. See the LICENSE file for details.
